@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>button.png</file>
+        <file>setup.png</file>
+    </qresource>
+</RCC>
